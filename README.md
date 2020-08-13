@@ -9,6 +9,7 @@
   basica de la forma en la trabajan los equipos que se dedican al desarrollo web.
   > - Ningun otro curso me ha dado ese tipo de conocimiento si es que se le puede llamar asi.
   > - En fin, siguiente sección.
+  * Creado por el increible Platzi Team
   
   Bueno, realmente eso es todo lo que iba a escribir, seguire con el curso.
   
