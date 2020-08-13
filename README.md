@@ -10,6 +10,7 @@
   > - Ningun otro curso me ha dado ese tipo de conocimiento si es que se le puede llamar asi.
   > - En fin, siguiente sección.
   * Creado por el increible Platzi Team
+  * Aun no se como hacer para que se vea bien mi codigo de README
   
   Bueno, realmente eso es todo lo que iba a escribir, seguire con el curso.
   
